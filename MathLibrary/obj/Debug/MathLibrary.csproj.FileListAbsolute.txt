@@ -1,0 +1,6 @@
+D:\visual\MathLibrary\MathLibrary\bin\Debug\MathLibrary.dll
+D:\visual\MathLibrary\MathLibrary\bin\Debug\MathLibrary.pdb
+D:\visual\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.AssemblyReference.cache
+D:\visual\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+D:\visual\MathLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+D:\visual\MathLibrary\MathLibrary\obj\Debug\MathLibrary.pdb
