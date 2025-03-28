@@ -112,7 +112,7 @@ namespace MathLibrary
             {
                 Console.WriteLine("Ошибка: " + ex.Message);
             }
-
+            //проверка
             Console.ReadKey();
         }
     }
